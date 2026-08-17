@@ -135,7 +135,7 @@ Tools I use to **learn, research, experiment, brainstorm, and accelerate develop
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=GITHUB%20ACTIVITY&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="GitHub Activity"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=80&text=⚡%20CONTRIBUTION%20ACTIVITY%20⚡&fontSize=24&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Contribution Activity"/>
 </div>
 
 <div align="center">
