@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0D1117&height=200&text=MUSKAN%20IRFAN&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18&descColor=ffffff" width="100%" alt="Muskan Irfan"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0D1117&height=200&text=MUSKAN%20IRFAN&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Web%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18&descColor=ffffff" width="100%" alt="Muskan Irfan"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Web+Developer+in+Progress;Exploring+Cybersecurity;Code+%E2%80%A2+Build+%E2%80%A2+Secure+%E2%80%A2+Evolve" alt="Typing SVG"/>
 
@@ -84,7 +84,9 @@ I enjoy turning concepts into practical projects and exploring how software is d
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=AI%20ARSENAL&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn&stroke=38BDF8" width="100%" alt="AI Toolkit"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=AI%20TOOLKIT&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="AI Toolkit"/>
+</div>
 
 Tools I use to **learn, research, experiment, brainstorm, and accelerate development**.
 
@@ -115,10 +117,8 @@ Tools I use to **learn, research, experiment, brainstorm, and accelerate develop
 ---
 
 <div align="center">
-  <h2 style="color:#38BDF8;">⚡ CONTRIBUTION ACTIVITY ⚡</h2>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=CONTRIBUTION%20ACTIVITY&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Contribution Activity"/>
 </div>
-
-
 
 <div align="center">
 
@@ -135,7 +135,7 @@ Tools I use to **learn, research, experiment, brainstorm, and accelerate develop
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=80&text=⚡%20CONTRIBUTION%20ACTIVITY%20⚡&fontSize=24&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="Contribution Activity"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=GITHUB%20ACTIVITY&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="GitHub Activity"/>
 </div>
 
 <div align="center">
