@@ -122,7 +122,7 @@ Tools I use to **learn, research, experiment, brainstorm, and accelerate develop
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=msknh3x&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF" />
+
 
 <br/>
 
