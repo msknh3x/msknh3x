@@ -160,7 +160,7 @@ Tools I use to **learn, research, experiment, brainstorm, and accelerate develop
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://drive.google.com/file/d/1fYhAufI4eRQ2gU3aAzy7Ei-jd4bLOoVT/view?usp=sharing" target="_blank">
-<img src="https://img.shields.io/badge/My%20CV%202-0A66C2?style=for-the-badge&logo=google-drive&logoColor=white" />
+<img src="https://img.shields.io/badge/My%20CV-38BDF8?style=for-the-badge&logo=google-drive&logoColor=white" />
 </a>
 </div>
 
