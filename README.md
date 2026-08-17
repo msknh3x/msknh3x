@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0D1117&height=200&text=MUSKAN%20IRFAN&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Web%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18&descColor=ffffff" width="100%" alt="Muskan Irfan"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Web+Developer+in+Progress;Exploring+Cybersecurity;Code+%E2%80%A2+Build+%E2%80%A2+Secure+%E2%80%A2+Evolve" alt="Typing SVG"/>
 
 <p><code>Code • Build • Secure • Evolve</code></p>
 
