@@ -159,9 +159,9 @@ Tools I use to **learn, research, experiment, brainstorm, and accelerate develop
 <a href="mailto:muskaan29899@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://drive.google.com/file/d/172ElNe4ZtjyEHm-mBcTbBT85Jqt-neK7/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1kQRJlCascDkUghk478ZXQSDX-4xwuMxn/view?usp=sharing" target="_blank">
 <img src="https://img.shields.io/badge/My%20CV-38BDF8?style=for-the-badge&logo=google-drive&logoColor=white" />
 </a>
-</div>
+</div> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:38BDF8&height=150&section=footer&text=BUILDING%20TODAY.%20SECURING%20TOMORROW.&fontSize=22&fontColor=ffffff&fontAlignY=75&animation=twinkling" width="100%" alt="Building Today. Securing Tomorrow."/>
