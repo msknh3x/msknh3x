@@ -84,7 +84,7 @@ I enjoy turning concepts into practical projects and exploring how software is d
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=AI%20TOOLKIT&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn&stroke=38BDF8" width="100%" alt="AI Toolkit"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=AI%20ARSENAL&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn&stroke=38BDF8" width="100%" alt="AI Toolkit"/>
 
 Tools I use to **learn, research, experiment, brainstorm, and accelerate development**.
 
