@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0D1117&height=200&text=MUSKAN%20IRFAN&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20Web%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18&descColor=ffffff" width="100%" alt="Muskan Irfan"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0D1117&height=200&text=MUSKAN%20IRFAN&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18&descColor=ffffff" width="100%" alt="Muskan Irfan"/>
   <p><code>Code • Build • Secure • Evolve</code></p>
 </div>
 
