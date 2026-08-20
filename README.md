@@ -36,8 +36,6 @@ I'm a **Software Engineering student** currently focused on strengthening my fou
 
 I enjoy turning concepts into practical projects and exploring how software is designed, built, and secured. My current learning path is centered around **Modern Web Technologies**, while gradually expanding into **Cybersecurity and web security**.
 
-> **Currently learning, building, experimenting, and documenting the journey.**
-
 ---
 
 <div align="center">
