@@ -149,9 +149,9 @@ I enjoy turning concepts into practical projects and exploring how software is d
     <a href="mailto:muskaan29899@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://drive.google.com/file/d/1kQRJlCascDkUghk478ZXQSDX-4xwuMxn/view?usp=sharing" target="_blank">
-      <img src="https://img.shields.io/badge/My%20CV-38BDF8?style=for-the-badge&logo=google-drive&logoColor=white" />
-    </a>
+   <a href="https://drive.google.com/file/d/1TIdHy--8ZztN7-VD2mc6a3ofyWRYEyzJ/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/My%20CV-38BDF8?style=for-the-badge&logo=google-drive&logoColor=white" />
+</a>
   </p>
 </div> 
 
