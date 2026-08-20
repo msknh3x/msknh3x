@@ -10,19 +10,24 @@
 </div>
 
 <table width="100%">
-  <tr><td width="30%">💻&nbsp; <strong>Role</strong></td><td>Software Engineering Student</td></tr>
-  <tr><td>🌐&nbsp; <strong>Focus</strong></td><td>Web Development</td></tr>
-  <tr><td>🔐&nbsp; <strong>Exploring</strong></td><td>Cybersecurity</td></tr>
-  <tr><td>⚡&nbsp; <strong>Learning</strong></td><td>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="22"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="22"/>
+  <tr><td width="30%">&nbsp; <strong>Role</strong></td><td>Software Engineering Student</td></tr>
+  <tr><td>&nbsp; <strong>Focus</strong></td><td>Web Development</td></tr>
+  <tr><td>&nbsp; <strong>Exploring</strong></td><td>Cybersecurity</td></tr>
+  <tr><td>&nbsp; <strong>Learning</strong></td><td>
+    <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,cpp&theme=light" width="100" />
+  </a>
+</p>
+
   </td></tr>
-  <tr><td>🛠️&nbsp; <strong>Building</strong></td><td>Projects &amp; Web Applications</td></tr>
-  <tr><td>⚙️&nbsp; <strong>Environment</strong></td><td>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="22"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="22"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="22"/>
+  <tr><td>&nbsp; <strong>Environment</strong></td><td>
+    <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=light" width="100" />
+  </a>
+</p>
+
   </td></tr>
 </table>
 
