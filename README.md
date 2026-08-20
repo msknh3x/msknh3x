@@ -111,8 +111,6 @@ I enjoy turning concepts into practical projects and exploring how software is d
 ---
 
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=GITHUB%20ACTIVITY&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="GitHub Activity"/>
   <br/>
