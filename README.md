@@ -36,6 +36,8 @@ I'm a **Software Engineering student** currently focused on strengthening my fou
 
 I enjoy turning concepts into practical projects and exploring how software is designed, built, and secured. My current learning path is centered around **Modern Web Technologies**, while gradually expanding into **Cybersecurity and web security**.
 
+> **Currently learning, building, experimenting, and documenting the journey.**
+
 ---
 
 <div align="center">
@@ -112,7 +114,13 @@ I enjoy turning concepts into practical projects and exploring how software is d
 </table>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=CONTRIBUTION%20ACTIVITY&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Contribution Activity"/>
+<div align="center">
 
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msknh3x&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com?user=msknh3x&theme=tokyonight&hide_border=true" />
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=GITHUB%20ACTIVITY&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="GitHub Activity"/>
