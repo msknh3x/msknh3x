@@ -110,9 +110,6 @@ I enjoy turning concepts into practical projects and exploring how software is d
 
 ---
 
-<br/>
-
-> **Consistency over intensity. Build something, learn something, improve something.**
 
 ---
 
