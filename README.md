@@ -110,14 +110,6 @@ I enjoy turning concepts into practical projects and exploring how software is d
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=CONTRIBUTION%20ACTIVITY&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Contribution Activity"/>
-  <br/><br/>
-  
-  <a href="https://github.com/msknh3x">
-    <img src="https://ghchart.rshah.org/38BDF8/msknh3x" alt="Muskan's GitHub Contributions Grid" width="100%" />
-  </a>
-</div>
 <br/>
 
 > **Consistency over intensity. Build something, learn something, improve something.**
