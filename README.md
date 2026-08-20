@@ -88,9 +88,13 @@ I enjoy turning concepts into practical projects and exploring how software is d
   <img src="https://img.shields.io/badge/ChatGPT-111827?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" </p>
+  <p align="center">
   <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Copilot-5E5CE6?style=for-the-badge&logo=microsoft&logoColor=white" />
+   <img src="https://img.shields.io/badge/Grok-5E5CE6?style=for-the-badge&logo=grok&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta_AI-5E5CE6?style=for-the-badge&logo=metaai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_AI_Studio-5E5CE6?style=for-the-badge&logo=googleaistudio&logoColor=white" />
 </p>
 
 ---
