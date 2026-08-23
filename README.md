@@ -137,8 +137,9 @@ I enjoy turning concepts into practical projects and exploring how software is d
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=LET%27S%20CONNECT&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Let's Connect"/>
-  <p>Open to internship opportunities — always happy to connect, collaborate, or talk tech.</p>
+  <p style="margin-bottom:50px;"></p>
 
+<div align = "center"
   <p>
     <a href="https://www.linkedin.com/in/muskan-khan-ba4330393">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
