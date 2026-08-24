@@ -68,7 +68,6 @@ I enjoy turning concepts into practical projects and exploring how software is d
 
 <p>
   <img src="https://img.shields.io/badge/Web%20Development-38BDF8?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Technologies-0EA5E9?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Cybersecurity%20Fundamentals-6366F1?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Programming%20Foundations-8B5CF6?style=for-the-badge&logoColor=white" />
 </p>
