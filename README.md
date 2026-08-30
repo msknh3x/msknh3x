@@ -122,10 +122,12 @@ I enjoy turning concepts into practical projects and exploring how software is d
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=GITHUB%20ACTIVITY&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="GitHub Activity"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msknh3x&bg_color=0D1117&color=FFFFFF&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
 
+&#x20; <br/>
+
+&#x20; <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=msknh3x&bg_color=0D1117&color=FFFFFF&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
 ---
 
 <div align="center">
