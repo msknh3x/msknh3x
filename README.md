@@ -31,7 +31,7 @@
   </td></tr>
 </table>
 
----
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=ABOUT%20ME&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="About Me"/>
@@ -43,7 +43,7 @@ I enjoy turning concepts into practical projects and exploring how software is d
 
 > **Currently learning, building, experimenting, and documenting the journey.**
 
----
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=TECHNICAL%20STACK&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Technical Stack"/>
@@ -81,7 +81,6 @@ I enjoy turning concepts into practical projects and exploring how software is d
   <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=AI%20ARSENAL&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="AI Toolkit"/>
@@ -102,7 +101,6 @@ I enjoy turning concepts into practical projects and exploring how software is d
 <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=CURRENTLY%20BUILDING&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Currently Building"/>
@@ -117,8 +115,6 @@ I enjoy turning concepts into practical projects and exploring how software is d
   <tr><td>🏗️&nbsp; <strong>Software Architecture</strong></td><td><img src="https://img.shields.io/badge/status-learning-6366F1?style=flat-square"/></td></tr>
 </table>
 
----
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=GITHUB%20ACTIVITY&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="GitHub Activity"/>
@@ -128,7 +124,7 @@ I enjoy turning concepts into practical projects and exploring how software is d
 &#x20; <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=msknh3x&bg_color=0D1117&color=FFFFFF&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
----
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=LET%27S%20CONNECT&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Let's Connect"/>
