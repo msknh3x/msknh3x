@@ -107,12 +107,12 @@ I enjoy turning concepts into practical projects and exploring how software is d
 </div>
 
 <table width="100%">
-  <tr><td>🚀&nbsp; <strong>JavaScript Web Applications</strong></td><td><img src="https://img.shields.io/badge/status-building-38BDF8?style=flat-square"/></td></tr>
-  <tr><td>🐍&nbsp; <strong>Python Practice Projects</strong></td><td><img src="https://img.shields.io/badge/status-practicing-0EA5E9?style=flat-square"/></td></tr>
-  <tr><td>🔐&nbsp; <strong>Cybersecurity Fundamentals</strong></td><td><img src="https://img.shields.io/badge/status-exploring-6366F1?style=flat-square"/></td></tr>
-  <tr><td>📚&nbsp; <strong>Programming Foundations</strong></td><td><img src="https://img.shields.io/badge/status-strengthening-8B5CF6?style=flat-square"/></td></tr>
-  <tr><td>🎨&nbsp; <strong>Frontend Projects</strong></td><td><img src="https://img.shields.io/badge/status-building-38BDF8?style=flat-square"/></td></tr>
-  <tr><td>🏗️&nbsp; <strong>Software Architecture</strong></td><td><img src="https://img.shields.io/badge/status-learning-6366F1?style=flat-square"/></td></tr>
+  <tr><td>&nbsp; <strong>JavaScript Web Applications</strong></td><td><img src="https://img.shields.io/badge/status-building-38BDF8?style=flat-square"/></td></tr>
+  <tr><td>&nbsp; <strong>Python Practice Projects</strong></td><td><img src="https://img.shields.io/badge/status-practicing-0EA5E9?style=flat-square"/></td></tr>
+  <tr><td>&nbsp; <strong>Cybersecurity Fundamentals</strong></td><td><img src="https://img.shields.io/badge/status-exploring-6366F1?style=flat-square"/></td></tr>
+  <tr><td>&nbsp; <strong>Programming Foundations</strong></td><td><img src="https://img.shields.io/badge/status-strengthening-8B5CF6?style=flat-square"/></td></tr>
+  <tr><td>&nbsp; <strong>Frontend Projects</strong></td><td><img src="https://img.shields.io/badge/status-building-38BDF8?style=flat-square"/></td></tr>
+  <tr><td>&nbsp; <strong>Software Architecture</strong></td><td><img src="https://img.shields.io/badge/status-learning-6366F1?style=flat-square"/></td></tr>
 </table>
 
 
