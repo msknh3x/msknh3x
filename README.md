@@ -30,12 +30,15 @@
 ## `PROFILE`
 
 ```bash
-msknh3x@github:~$ whoami
-```
+msknh3x@github:~$ whoami 
+
 
 Software Engineering student at **UET Peshawar**, focused on software development, cybersecurity, and system-level computing.
 
-Exploring the intersection of application development and security, with an interest in building reliable software, understanding system architecture, and strengthening programming fundamentals. I believe in learning by building, experimenting with new technologies, and developing solutions that combine functionality, efficiency, and security.
+Exploring the intersection of application development and security, with an interest in building reliable software, understanding
+system architecture, and strengthening programming fundamentals. I believe in learning by building, experimenting with new technologies,
+and developing solutions that combine functionality, efficiency, and security.
+```
 <details>
 <summary><code> VIEW PROFILE DETAILS</code></summary>
 
