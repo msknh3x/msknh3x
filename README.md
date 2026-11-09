@@ -1,140 +1,80 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0D1117&height=200&text=MUSKAN%20IRFAN&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18&descColor=ffffff" width="100%" alt="Muskan Irfan"/>
-  <p><code>Code • Build • Secure • Evolve</code></p>
-</div>
+
+# `msknh3x@github:~$`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1800&color=3FB950&center=true&vCenter=true&width=300&lines=MUSKAN" alt="Animated name: Muskan"/>
+
+**SOFTWARE ENGINEERING** &nbsp;·&nbsp; **CYBERSECURITY**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2200&color=3FB950&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE+%5BOK%5D;TRACE+THE+LOGIC.+BUILD+WITH+INTENT.;SECURE+BY+DESIGN+%2F%2F+ALWAYS+LEARNING." alt="Animated terminal tagline"/>
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=SYSTEM%20STATUS&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="System Status"/>
-</div>
-
-<table width="100%">
-  <tr><td width="30%">&nbsp; <strong>Role</strong></td><td>Software Engineering Student</td></tr>
-  <tr><td>&nbsp; <strong>Focus</strong></td><td>Web Development</td></tr>
-  <tr><td>&nbsp; <strong>Exploring</strong></td><td>Cybersecurity</td></tr>
-  <tr><td>&nbsp; <strong>Learning</strong></td><td>
-    <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,cpp&theme=light" width="100" />
-  </a>
-</p>
-
-  </td></tr>
-  <tr><td>&nbsp; <strong>Environment</strong></td><td>
-    <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=light" width="100" />
-  </a>
-</p>
-
-  </td></tr>
-</table>
-
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=ABOUT%20ME&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="About Me"/>
-</div>
-
-I'm a **Software Engineering student** currently focused on strengthening my foundations in **Web Development, programming, and Software Engineering**.
-
-I enjoy turning concepts into practical projects and exploring how software is designed, built, and secured. My current learning path is centered around **Modern Web Technologies**, while gradually expanding into **Cybersecurity and web security**.
-
-> **Currently learning, building, experimenting, and documenting the journey.**
-
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=TECHNICAL%20STACK&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Technical Stack"/>
-</div>
-
-### `WEB`
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### `PROGRAMMING`
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-### `CURRENT FOCUS`
-
-<p>
-  <img src="https://img.shields.io/badge/Web%20Development-38BDF8?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity%20Fundamentals-6366F1?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Programming%20Foundations-8B5CF6?style=for-the-badge&logoColor=white" />
-</p>
-
-### `DEVELOPMENT TOOLS`
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logo=rocket&logoColor=white" />
-</p>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=AI%20ARSENAL&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="AI Toolkit"/>
-  <p>Tools I use to <strong>learn, research, experiment, brainstorm, and accelerate development</strong>.</p>
-</div>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <p align="left">
-  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Copilot-5E5CE6?style=for-the-badge&logo=copilot&logoColor=white" />
-    <img src="https://img.shields.io/badge/Open_AI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <p align="left">
-  <img src="https://img.shields.io/badge/Meta_AI-5E5CE6?style=for-the-badge&logo=metaai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=CURRENTLY%20BUILDING&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Currently Building"/>
-</div>
-
-<table width="100%">
-  <tr><td>&nbsp; <strong>JavaScript Web Applications</strong></td><td><img src="https://img.shields.io/badge/status-building-38BDF8?style=flat-square"/></td></tr>
-  <tr><td>&nbsp; <strong>Python Practice Projects</strong></td><td><img src="https://img.shields.io/badge/status-practicing-0EA5E9?style=flat-square"/></td></tr>
-  <tr><td>&nbsp; <strong>Cybersecurity Fundamentals</strong></td><td><img src="https://img.shields.io/badge/status-exploring-6366F1?style=flat-square"/></td></tr>
-  <tr><td>&nbsp; <strong>Programming Foundations</strong></td><td><img src="https://img.shields.io/badge/status-strengthening-8B5CF6?style=flat-square"/></td></tr>
-  <tr><td>&nbsp; <strong>Software Architecture</strong></td><td><img src="https://img.shields.io/badge/status-learning-6366F1?style=flat-square"/></td></tr>
-</table>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:38BDF8,100:0D1117&height=55&text=LET%27S%20CONNECT&fontSize=20&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Let's Connect"/>
-  <p style="margin-bottom:50px;"></p>
-
-<div align = "center"
-  <p>
-    <a href="https://www.linkedin.com/in/muskan-khan-ba4330393">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://github.com/msknh3x">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="mailto:muskaan29899@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
- <a href="https://drive.google.com/file/d/1TIdHy--8ZztN7-VD2mc6a3ofyWRYEyzJ/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/My%20CV-38BDF8?style=for-the-badge&logo=google-drive&logoColor=white" />
+<a href="https://github.com/msknh3x">
+<img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=3FB950" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/muskan-khan-ba4330393">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=3FB950" alt="LinkedIn"/>
+</a>
+<a href="mailto:muskaan29899@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=3FB950" alt="Email"/>
+</a>
+<a href="https://drive.google.com/file/d/1TIdHy--8ZztN7-VD2mc6a3ofyWRYEyzJ/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-View-0D1117?style=for-the-badge&logo=googledrive&logoColor=3FB950" alt="Resume"/>
 </a>
 
-  </p>
-</div> 
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:38BDF8&height=150&section=footer&text=BUILDING%20TODAY.%20SECURING%20TOMORROW.&fontSize=22&fontColor=ffffff&fontAlignY=75&animation=twinkling" width="100%" alt="Footer Banner"/>
+---
+
+## `PROFILE`
+
+```bash
+msknh3x@github:~$ whoami
+```
+
+Software Engineering student at **UET Peshawar**, focused on software development, cybersecurity, and system-level computing.
+
+Exploring the intersection of application development and security, with an interest in building reliable software, understanding system architecture, and strengthening programming fundamentals. I believe in learning by building, experimenting with new technologies, and developing solutions that combine functionality, efficiency, and security.
+<details>
+<summary><code> VIEW PROFILE DETAILS</code></summary>
+
+<br/>
+
+- **Role:** Software Engineering Student
+- **Interests:** Cybersecurity · Offensive Security
+- **Exploring:** Ubuntu/Linux · Networking Fundamentals
+- **Approach:** Learn · Build · Test · Improve
+
+</details>
+
+---
+
+## `TECH STACK`
+
+**WEB**
+
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=3FB950" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=3FB950" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=3FB950" alt="JavaScript"/>
+
+**PROGRAMMING**
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3FB950" alt="Python"/> <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=3FB950" alt="C++"/>
+
+**SYSTEMS & DEVELOPMENT TOOLS**
+
+<img src="https://img.shields.io/badge/Ubuntu-0D1117?style=flat-square&logo=ubuntu&logoColor=3FB950" alt="Ubuntu"/> <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=3FB950" alt="Linux"/> <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=3FB950" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=3FB950" alt="GitHub"/> <img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=3FB950" alt="VS Code"/> <img src="https://img.shields.io/badge/Antigravity-0D1117?style=flat-square&logo=rocket&logoColor=3FB950" alt="Antigravity"/>
+
+---
+
+## `CURRENT FOCUS`
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=3FB950&center=true&vCenter=true&width=800&height=160&lines=%5B+WEB+DEVELOPMENT+%5D+JavaScript+applications+%26+modern+web+technologies;%5B+CYBERSECURITY+%5D+Security+fundamentals+%26+web+application+security;%5B+NETWORKING+%5D+Networking+concepts+%26+communication+protocols;%5B+LINUX+%5D+Ubuntu%2C+Linux+fundamentals+%26+command-line+workflows;%5B+PROGRAMMING+%5D+Python%2C+C%2B%2B+%26+software+engineering+foundations" alt="Animated current focus"/>
+</div>
+
+---
+`[ SESSION ACTIVE ]`
+
+**BUILDING · LEARNING · SECURING**
+
+</div>
